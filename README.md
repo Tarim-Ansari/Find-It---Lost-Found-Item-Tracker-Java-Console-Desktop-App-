@@ -1,0 +1,2 @@
+# Find-It---Lost-Found-Item-Tracker-Java-Console-Desktop-App-
+Find It is a Java-based lost &amp; found tracker that lets users post, search, and manage lost or found items. It supports a console-based or Java Swing GUI version. Data is stored using CSV files or SQLite database. Features include filters, notifications, and easy item tracking. A simple, beginner-friendly project for Java learners! 🚀
